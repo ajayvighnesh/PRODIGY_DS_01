@@ -3,4 +3,5 @@ Create a bar chart or histogram to visualize the distribution of a categorical o
 
 Sample Dataset :- https://data.worldbank.org/indicator/SP.POP.TOTL
 <br>
+<br>
 <img src="https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/ds1.png"   >
